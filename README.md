@@ -1,6 +1,7 @@
 # RAG_wAgent
 
 Lightweight RAG (Retrieval-Augmented Generation) demo using a local LLM (Ollama + tinyllama), a simple vector store, and a Streamlit UI. This repo includes helper debug scripts to exercise routing and model calls.
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/82a34331-100a-4513-af73-7346eb1a2230" />
 
 ## Contents
 - `rag_local_streamlit.py` — Streamlit web UI and controls (model, temperature, top-k per company, routing, verbosity).
