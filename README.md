@@ -3,7 +3,11 @@
 Lightweight RAG (Retrieval-Augmented Generation) demo using a local LLM (Ollama + tinyllama), a simple vector store, and a Streamlit UI. This repo includes helper debug scripts to exercise routing and model calls.
 
 
+
+
 <img width="1181" height="1181" alt="RAG with Agent" src="https://github.com/user-attachments/assets/8f5c820c-1064-4b7b-8820-15d15600802b" />
+
+
 
 
 ## Contents
