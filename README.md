@@ -43,12 +43,6 @@ Lightweight RAG (Retrieval-Augmented Generation) demo using a local LLM (Ollama 
    pip install -r requirements.txt
    ```
 
-   - If one is not provided, install the minimal dependencies used by the app:
-
-   ```powershell
-   pip install streamlit requests python-dotenv
-   ```
-
    Add other packages as needed (faiss, sentence-transformers, scikit-learn, etc.) depending on your indexing/retrieval implementation.
 
 4. (Optional) Ensure you have any indexing artifacts in `vector_store/`. If not, run the project's indexing script (if present) or the scripts that populate the vector store for each company.
