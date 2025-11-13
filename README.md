@@ -93,6 +93,13 @@ python .\debug_parse.py
 
 - Run `debug_agent.py` to exercise the full call path used by agent logic.
 
+
+---
+
+## Sample Output
+<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/a13224db-b41a-4c4c-be51-71f44e7b6d7d" />
+
+
 ---
 
 ## Design approach (short)
