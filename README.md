@@ -6,8 +6,6 @@ Lightweight RAG (Retrieval-Augmented Generation) demo using a local LLM (Ollama 
 
 
 
-<img width="1868" height="827" alt="image" src="https://github.com/user-attachments/assets/5287952c-f710-45a5-be4d-e0422b4c542d" />
-
 <img width="1181" height="1181" alt="RAG with Agent" src="https://github.com/user-attachments/assets/8f5c820c-1064-4b7b-8820-15d15600802b" />
 
 
